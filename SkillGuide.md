@@ -2,6 +2,17 @@
 
 OpenCode 技能使用指南。记录每个已安装 Skill 的功能、用法和注意事项。
 
+## 技能总览
+
+| 技能 | 命令 | 一句话介绍 |
+|------|------|-----------|
+| [docx](#docx--word-文档处理) | `/docx` | 创建、编辑、读取 Word 文档，支持审阅修订与批注 |
+| [pptx](#pptx--powerpoint-演示文稿处理) | `/pptx` | 创建、编辑、读取 PPT 演示文稿，内置设计配色与布局方案 |
+| [pdf](#pdf--pdf-文件处理) | `/pdf` | 读取、合并、拆分 PDF，支持表单填写与 OCR 文字识别 |
+| [xlsx](#xlsx--excel-电子表格处理) | `/xlsx` | 创建、编辑、读取 Excel 表格，支持公式、图表与数据清洗 |
+| [frontend-design](#frontend-design--高质量前端界面设计) | `/frontend-design` | 前端界面设计指导，避免通用 AI 美学，打造独特视觉风格 |
+| [web-access](#web-access--ai-agent-联网与浏览器自动化) | `/web-access` | 联网搜索、网页读取与 Chrome 浏览器自动化操作 |
+
 ---
 
 ## docx — Word 文档处理
