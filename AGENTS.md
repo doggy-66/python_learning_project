@@ -36,6 +36,8 @@ python3 math_test.py       # 运行数学运算测试
 - `/xlsx $ARGUMENTS` — 读取、创建、编辑或分析 Excel 电子表格
 - `/frontend-design $ARGUMENTS` — 创建高质量前端界面设计
 - `/web-access $ARGUMENTS` — 联网搜索、网页读取、浏览器自动化
+- `/skill-creator $ARGUMENTS` — 创建、评估、改进和基准测试 Skills
+- `/claude-mem $ARGUMENTS` — 审计代码反模式（空 catch、无声异常等）
 
 ### 技能（`.opencode/skills/`）
 - `docx` — Word 文档（.docx）处理技能
@@ -44,6 +46,8 @@ python3 math_test.py       # 运行数学运算测试
 - `xlsx` — Excel 电子表格技能
 - `frontend-design` — 前端界面设计指导技能
 - `web-access` — AI Agent 联网与浏览器自动化技能
+- `skill-creator` — Skill 开发、评估与基准测试工具包
+- `claude-mem` — 代码反模式审查（反模式沙皇）
 
 ## 环境配置
 
