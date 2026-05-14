@@ -34,12 +34,16 @@ python3 math_test.py       # 运行数学运算测试
 - `/pptx $ARGUMENTS` — 创建、编辑或分析 PowerPoint 演示文稿
 - `/pdf $ARGUMENTS` — 读取、创建、编辑或处理 PDF 文件
 - `/xlsx $ARGUMENTS` — 读取、创建、编辑或分析 Excel 电子表格
+- `/frontend-design $ARGUMENTS` — 创建高质量前端界面设计
+- `/web-access $ARGUMENTS` — 联网搜索、网页读取、浏览器自动化
 
 ### 技能（`.opencode/skills/`）
-- `docx` — Word 文档（.docx）处理技能，支持创建、编辑、格式转换、审阅批注等
-- `pptx` — PowerPoint（.pptx）处理技能，支持创建、编辑、文本提取等
-- `pdf` — PDF 处理技能，支持读取、合并、拆分、表单填写、OCR 识别等
-- `xlsx` — Excel 电子表格技能，支持创建、编辑、公式、图表、数据清洗等
+- `docx` — Word 文档（.docx）处理技能
+- `pptx` — PowerPoint（.pptx）处理技能
+- `pdf` — PDF 处理技能
+- `xlsx` — Excel 电子表格技能
+- `frontend-design` — 前端界面设计指导技能
+- `web-access` — AI Agent 联网与浏览器自动化技能
 
 ## 环境配置
 
